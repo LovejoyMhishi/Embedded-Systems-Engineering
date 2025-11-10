@@ -1,4 +1,4 @@
-# Analog Circuits
+<h1 align="center">Analog Circuits</h1> 
 
 ## Table of Contents
 1. [Amplifiers & Filters](#1-amplifiers--filters)

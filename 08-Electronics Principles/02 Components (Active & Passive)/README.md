@@ -1,4 +1,4 @@
-# Electronic Components: Complete Course Material
+# Electronic Components
 ## Active and Passive Components
 
 ## Table of Contents

@@ -1,4 +1,4 @@
-# Electrical Circuit Analysis: Complete Course Material
+# Electrical Circuit Analysis
 
 ## Table of Contents
 1. [Core Concepts](#1-core-concepts)

@@ -1,4 +1,4 @@
-# Analog Circuits: Complete Course Material
+# Analog Circuits
 
 ## Table of Contents
 1. [Amplifiers & Filters](#1-amplifiers--filters)

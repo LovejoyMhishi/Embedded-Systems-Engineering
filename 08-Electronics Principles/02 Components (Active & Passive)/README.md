@@ -1,4 +1,4 @@
-<h1 align="center">EElectronic Components</h1>
+<h1 align="center">Electronic Components</h1>
 
 ## Active and Passive Components
 

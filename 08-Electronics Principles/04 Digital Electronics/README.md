@@ -1,4 +1,4 @@
-# Digital Electronics
+<h1 align="center">Digital Electronics</h1>
 
 ## Table of Contents
 1. [Logic Gates & Boolean Algebra](#1-logic-gates--boolean-algebra)

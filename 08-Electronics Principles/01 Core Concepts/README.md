@@ -1,4 +1,4 @@
-# Electrical Circuit Analysis
+<h1 align="center">Electrical Circuit Analysis</h1>
 
 ## Table of Contents
 1. [Core Concepts](#1-core-concepts)

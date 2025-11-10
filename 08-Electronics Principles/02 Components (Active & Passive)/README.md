@@ -1,4 +1,5 @@
-# Electronic Components
+<h1 align="center">EElectronic Components</h1>
+
 ## Active and Passive Components
 
 ## Table of Contents

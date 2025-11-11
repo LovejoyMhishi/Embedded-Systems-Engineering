@@ -1,6 +1,6 @@
 # Embedded Systems & Firmware Engineering Mastery Roadmap
 
-*A comprehensive 34-week journey from beginner to expert in embedded systems and firmware development. This roadmap represents my personal journey toward becoming an expert in embedded systems and firmware engineering. I am deeply interested in low-level software development, microcontrollers, and the interaction between hardware and software. My goal is to build strong, industry-ready skills in embedded C, MCU architecture, drivers, RTOS development, and modern firmware practices. This repo serves as both a structured learning path and a record of my progression from beginner to advanced embedded systems engineer.*
+*A comprehensive 34-week journey from beginner to expert in embedded systems and firmware development. This roadmap represents my personal journey toward becoming an expert in embedded systems and firmware engineering. I am deeply interested in hardware design, low-level software development, microcontrollers, and the interaction between hardware and software. My goal is to build strong, industry-ready skills in embedded C, MCU architecture, drivers, RTOS development, and modern firmware practices. This repo serves as both a structured learning path and a record of my progression from beginner to advanced embedded systems engineer.*
 
 ---
 
